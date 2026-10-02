@@ -1,0 +1,1 @@
+# This file is no longer used. Logic has been moved to services/geminiService.ts for client-side execution.

@@ -1,0 +1,5 @@
+{
+  "name": "CardioCare - By TechBuilders ",
+  "description": "An AI-powered heart attack risk assessment application that analyzes patient vitals and lifestyle factors to provide instant risk estimates and health recommendations.",
+  "requestFramePermissions": []
+}
